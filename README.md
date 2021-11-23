@@ -23,9 +23,7 @@ pip install opencv-python==3.4.3.18
 
 No non-standard hardware is required to run these programs.
 
---------------------------------------
-
-Programs:
+## Programs
 Running these four programs in the following order will calculate PT and INR values for the sample video.
 
 * extract.py: This file extracts the individual video frames and outputs the frames to a directory.
@@ -46,9 +44,8 @@ These helper files are called by the above programs.
 Data:
 * video.mp4: Video of a our system measuring PT and INR for a sample of whole blood.
 
---------------------------------------
 
-Instructions to run programs:
+## Instructions to run programs:
 
 (1) Extract frames from video.
 Command: python3 extract.py
