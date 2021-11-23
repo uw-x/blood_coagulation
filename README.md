@@ -45,7 +45,7 @@ Data:
 * video.mp4: Video of a our system measuring PT and INR for a sample of whole blood.
 
 
-## Instructions to run programs:
+## Instructions to run programs
 
 (1) Extract frames from video.
 Command: python3 extract.py
