@@ -1,4 +1,5 @@
 ## Overview
+<img src="blood1.png" align="right" width="50%" height="50%"/>
 
 This archive contains a video of a PT and INR measurement of a sample of whole blood measured on our system, as well as the code used to compute PT and INR from the video.
 
